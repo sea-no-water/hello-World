@@ -26,10 +26,10 @@
 			* 项二
 <br>
 <br>
->这
->>是
->>>一
->>>>个有序列表
+> 这
+>> 是
+>>> 一
+>>>> 个有序列表
 <br>
 <br>
 [markdown简单教程](http://blog.csdn.net/kaitiren/article/details/38513715 ”markdown语言”)
