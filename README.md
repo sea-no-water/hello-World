@@ -2,7 +2,7 @@
 测试库
 这是对文件的第一次更改8.29 <br>
 大标题
-＝＝＝＝＝＝＝＝＝＝
+======
 
 ## 二标题
 ### 三标题
@@ -32,8 +32,3 @@
 <br>
 [markdown简单教程](http://blog.csdn.net/kaitiren/article/details/38513715 ”markdown语言”)
 
-<table>
-    <tr>
-        <td>Foo</td>
-    </tr>
-</table>
