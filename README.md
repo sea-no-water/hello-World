@@ -33,5 +33,6 @@
 <br>
 <br>
 [markdown简单教程](http://blog.csdn.net/kaitiren/article/details/38513715 ”markdown语言”)
+<br>
 [markdown完整教程](http://wowubuntu.com/markdown/index.html)
 
